@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bienvenue à tous!
 
-<!--
-**Lilinnfr/Lilinnfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:seedling: Après plusieurs années dans la vente, j'ai décidé de me reconvertir dans le développement informatique et je suis actuellement en formation chez [Ada Tech School](https://adatechschool.fr/)
 
-Here are some ideas to get you started:
+:gem: Compétences : HTML, CSS, JavaScript, PHP, SQL.  
+En cours : React, Python  
+A venir : React native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:two_hearts: Appétence pour le développement front web et mobile sans pour autant délaisser le back-end.
+
+:sunny: A la recherche d'une alternance de 12 mois pour juin 2023.
+[Mon LinkedIn](https://www.linkedin.com/in/lydie-chaumet-9a5b61260/)
+
+:computer: Mes projets :  
+Jeu [Where's my teddy](https://www.lexaloffle.com/bbs/?tid=50014) en pixel-art, codé en LUA sur la plateforme PICO 8.  
+Site web utilisant une API sur le thème des expos de Paris (à venir ici)  
+Extension de navigateur (à venir ici)  
