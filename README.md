@@ -12,6 +12,22 @@ A venir : React native
 [Mon LinkedIn](https://www.linkedin.com/in/lydie-chaumet-9a5b61260/)
 
 :computer: Mes projets :  
-Jeu [Where's my teddy](https://www.lexaloffle.com/bbs/?tid=50014) en pixel-art, codé en LUA sur la plateforme PICO 8.  
-Site web utilisant une API sur le thème des expos de Paris (à venir ici)  
-Extension de navigateur (à venir ici)  
+
+Projets en groupes :  
+
+-Jeu [Where's my teddy](https://www.lexaloffle.com/bbs/?tid=50014) en pixel-art, (langage : LUA sur la plateforme PICO 8)  
+-Site web utilisant une API sur le thème des expos de Paris (langage : HTML, CSS, JS) / projet déjà effectué, bientôt visible ici.  
+-Extension de navigateur (langage : HTML, CSS, JS) / projet déjà effectué, bientôt visible ici.      
+
+
+Projets à venir d'ici juin: 
+ 
+-Plateforme de microblogging (langage : PHP avec Laravel 8)  
+-Application Android Front (langage : Java et Kotlin)  
+-Application Android Back (langage : Go)  
+
+Projets perso :  
+
+-Application style 'flashcard' permettant la révision de vocabulaire lors de l'apprentissage d'une langue (projet en cours)  
+-Application de sport permettant l'utilisation d'un chronomètre avec intervalles de temps pour effectuer diverses séries et exercices (projet à venir)  
+
