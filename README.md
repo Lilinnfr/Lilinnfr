@@ -15,10 +15,9 @@ A venir : React native
 
 Projets en groupes :  
 
--Jeu [Where's my teddy](https://www.lexaloffle.com/bbs/?tid=50014) en pixel-art, (langage : LUA sur la plateforme PICO 8)  
+-Jeu [Where's my teddy](https://github.com/Lilinnfr/Projet_Pico_8) en pixel-art, (langage : LUA sur la plateforme PICO 8) [Jouer au jeu.](https://www.lexaloffle.com/bbs/?tid=50014)  
 -Site web utilisant une API sur le thème des expos de Paris (langage : HTML, CSS, JS) / projet déjà effectué, bientôt visible ici.  
--Extension de navigateur (langage : HTML, CSS, JS) / projet déjà effectué, bientôt visible ici.      
-
+-[Extension de navigateur anti-ennui](https://github.com/Lilinnfr/Projet_Extension_Navigateur) (langage : HTML, CSS, JS)
 
 Projets à venir d'ici juin: 
  
