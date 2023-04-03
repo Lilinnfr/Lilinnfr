@@ -8,7 +8,7 @@ A venir : React native
 
 :two_hearts: Appétence pour le développement front web et mobile sans pour autant délaisser le back-end.
 
-:sunny: A la recherche d'une alternance de 12 mois pour juin 2023.
+:sunny: A la recherche d'une alternance de 12 mois pour juin 2023 (4 jours en entretprise, 1 jour à l'école).
 [Mon LinkedIn](https://www.linkedin.com/in/lydie-chaumet-9a5b61260/)
 
 :computer: Mes projets :  
