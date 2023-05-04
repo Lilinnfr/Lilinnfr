@@ -27,6 +27,6 @@ Projets à venir d'ici juin:
 
 Projets perso :  
 
--Application style 'flashcard' permettant la révision de vocabulaire lors de l'apprentissage d'une langue (projet en cours)  
+-Application style 'flashcard' permettant la révision de vocabulaire lors de l'apprentissage d'une langue (langage : React Native, projet en cours)  
 -Application de sport permettant l'utilisation d'un chronomètre avec intervalles de temps pour effectuer diverses séries et exercices (projet à venir)  
 
