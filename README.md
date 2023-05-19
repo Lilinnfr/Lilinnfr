@@ -18,6 +18,7 @@ Projets en groupes :
 -Jeu [Where's my teddy](https://github.com/Lilinnfr/Projet_Pico_8) en pixel-art, (langage : LUA sur la plateforme PICO 8) [Jouer au jeu.](https://www.lexaloffle.com/bbs/?tid=50014)  
 -[Site web utilisant une API sur le thème des expos de Paris](https://github.com/Lilinnfr/Projet_Dataviz_ExposParis) (langage : HTML, CSS, JS)   
 -[Extension de navigateur anti-ennui](https://github.com/Lilinnfr/Projet_Extension_Navigateur) (langage : HTML, CSS, JS)  
+-Plateforme de vente de meubles (langages : Tailwind, React, Node.js avec Express, mySQL).  
 -Plateforme de microblogging (langage : PHP avec Laravel 8 / projet déjà effectué, bientôt visible ici).  
 
 Projets en cours:   
@@ -27,5 +28,6 @@ Projets en cours:
 Projets perso :  
 
 -Application style 'flashcard' permettant la révision de vocabulaire lors de l'apprentissage d'une langue (langage : React Native, projet en cours)  
+-Portfolio (projet à venir)
 -Application de sport permettant l'utilisation d'un chronomètre avec intervalles de temps pour effectuer diverses séries et exercices (projet à venir)  
 
